@@ -3,6 +3,7 @@
 (int)Char.GetNumericValue(arr[i]);     //char陣列轉int
 
 int[] randomNoArray = new int[7];      //隨機陣列
+
 Random foreiRandom = new Random();
   for (int i = 0; i < randomNoArray.Length; i++)
   {
