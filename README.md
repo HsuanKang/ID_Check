@@ -1,4 +1,4 @@
-# ID_Check
+# ID_Check 身分證驗證 \ 法人(統一編號)驗證 \ 外籍人士統一證號
 
 (int)Char.GetNumericValue(arr[i]);     //char陣列轉int
 
